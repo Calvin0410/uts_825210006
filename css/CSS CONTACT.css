@@ -86,7 +86,7 @@ nav .kanan h1{
 }
 
 .slider .judul h1{
-	position: right;
+	position: absolute;
 	color: blue;
 	font-size: 120px;
 	top: 25%;
@@ -211,7 +211,7 @@ footer{
 	margin-top: 150px;
 	width: 100%;
 	height: 540px;
-	background: brown;
+	background: goldenrod;
 	overflow: hidden;
 }
 
@@ -337,7 +337,7 @@ footer .bawah{
 	float: left;
 	margin-top: 120px;
 	text-align: center;
-	border-top: 1px solid sienna;
+	border-top: 1px solid white;
 }
 
 footer .bawah a{
